@@ -1,0 +1,12 @@
+h1{
+  text-align: center;
+  font-style: italic;
+}
+.butn{
+  margin-left: 14em;
+  margin-top: 5px;
+  border-radius: 2px;
+}
+li{
+  list-style: none;
+}
